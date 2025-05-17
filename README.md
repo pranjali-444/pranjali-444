@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjali</h1>
+<h1 align="center">Hi 👋, I'm Pranjali Jain</h1>
 <h3 align="center">A passionate full-stack developer (MERN)</h3>
 
 - 🌱 I’m currently learning **Web Development** and **DSA**
@@ -9,8 +9,8 @@
 
 ### 📬 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/pranjali-jain-3a96721b6" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="pranjalijain2004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a>
+  <a href="www.linkedin.com/in/pranjali-jain-3a96721b6" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a> <p>www.linkedin.com/in/pranjali-jain-3a96721b6</p>
+  <a href="pranjalijain2004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a> <p>pranjalijain2004@gmail.com</p>
 </p>
 
 ---
@@ -34,13 +34,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Pranjali's GitHub stats" />
 </p>
