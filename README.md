@@ -9,13 +9,11 @@
 
 ### 📬 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/pranjali-jain-3a96721b6" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a> <p>www.linkedin.com/in/pranjali-jain-3a96721b6</p>
-  <a href="pranjalijain2004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a> <p>pranjalijain2004@gmail.com</p>
+  <a href="www.linkedin.com/in/pranjali-jain-3a96721b6" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a><p>www.linkedin.com/in/pranjali-jain-3a96721b6</p>
+  <a href="pranjalijain2004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a><p>pranjalijain2004@gmail.com</p>
 </p>
 
 ---
-
-### 🛠 Tech Stack:
 
 ### 🛠 Tech Stack:
 
